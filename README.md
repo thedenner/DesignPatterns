@@ -1,2 +1,3 @@
-# javaprojects
-Alguns projetos em JAVA que vou fazendo durante cursos que faço!
+# Projeto de DesignPatterns
+Construção ao longo do curso do Santander. 
+Aas ferramentas e frameworks são: JAVA, Spring Boot, Maven, Swagger, H2 e Feign.
